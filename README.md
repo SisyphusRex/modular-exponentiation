@@ -14,7 +14,7 @@ Let 𝑚 be an integer larger than 1.  Let 𝑥 and 𝑦 be any integers.  Then:
 Input: b base, e exponent, m modulo  
 Output: r remainder  
 
-r = b;  
+r = b    
 For i = 0; i < e - 1; i++  
   * r = (b * r) mod m  
 
